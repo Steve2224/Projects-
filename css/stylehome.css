@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+    width: divice width;
+}
+.wrapper
+{
+    background: url(index.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.navbar
+{
+    height: 80px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.4);
+}
